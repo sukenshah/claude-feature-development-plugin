@@ -1,0 +1,5 @@
+{
+  "name": "feature-development",
+  "version": "0.1.0",
+  "description": "Feature development workflow: requirements gathering, design/architecture planning, parent-orchestrated implementation, and independent code review."
+}
