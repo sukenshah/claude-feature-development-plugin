@@ -1,5 +1,9 @@
 {
   "name": "feature-development",
   "version": "0.1.0",
-  "description": "Feature development workflow: requirements gathering, design/architecture planning, parent-orchestrated implementation, and independent code review."
+  "description": "Feature development workflow: requirements gathering, design/architecture planning, parent-orchestrated implementation, and independent code review.",
+  "license": "MIT",
+  "author": {
+    "name": "Suken Shah"
+  }
 }

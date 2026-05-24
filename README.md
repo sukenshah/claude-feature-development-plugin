@@ -163,4 +163,4 @@ feature-development/
 
 ## License
 
-(add your license file and reference here)
+MIT — see [LICENSE](LICENSE).
